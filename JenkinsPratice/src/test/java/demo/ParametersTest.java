@@ -2,10 +2,10 @@ package demo;
 
 import org.testng.annotations.Test;
 
-public class Parameters {
+public class ParametersTest {
 
 	@Test
-	public void m1()
+	public void m2()
 	{
 		
 		String BROWSER = System.getProperty("browser");
